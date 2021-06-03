@@ -8,5 +8,10 @@ I enjoy coding Python GUI apps with Tkinter and working on websites using HTML/C
 - 💬 Ask me about Python/HTML/CSS
 - ⚡ Fun fact: I started coding 2020 August 31st
 
-Mail : [Pycodes.10](mailto:pycodes.10@gmail.com)
+Mail : [Pycodes.10](mailto:pycodes.10@gmail.com)<br>
 Replit : https://replit.com/@CodinUser
+
+### My projects
+- Workspace
+- Concept-md
+- BasicText
